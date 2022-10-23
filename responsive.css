@@ -8,7 +8,9 @@
     #nav2{
         display: flex;
     }
-
+    #curve{
+        height: 30vh;
+    }
     #page1{
         margin-top: 28vh;
         display: flex;
